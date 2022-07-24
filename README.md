@@ -1,1 +1,4 @@
 # PyBer_Analysis
+Overview of the analysis: Explain the purpose of the new analysis: The purpose of this analyst is to break down data do its easy to ready. 
+Results: Using images from the summary DataFrame and multiple-line chart, describe the differences in ride-sharing data among the different city types.![Pyber_fare_summary](https://user-images.githubusercontent.com/107686750/180631737-7679fc6d-d434-4eed-9f15-281543e80a6a.png)[Fig5](https://user-images.githubusercontent.com/107686750/180631777-2bf0445a-cb05-4bb9-9947-fb0f7848c4f7.png) [Fig6](https://user-images.githubusercontent.com/107686750/180631780-35bcb183-4fc8-4d41-a418-a0541659e9be.png). The difference in ride_sharing data among the different city is that the ride_sharing include dates giving the chart on more clear vision of changes in the months 
+Summary: Based on the results, provide three business recommendations to the CEO for addressing any disparities among the city types.!
